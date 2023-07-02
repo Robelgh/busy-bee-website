@@ -1,10 +1,10 @@
 {
     "Header": {
-      "title": "We are a Landing Page",
+      "title": "School Slogan",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
     },
     "About": {
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "paragraph": "School Name is the tenth largest in the nation and the fifth largest in Addis Ababa serving more than 189,000 students (this number includes students that attend non-District operated Charter Schools) who speak 150 languages and dialects. As the largest employer in Palm Beach County, the School District has 22,891 employees, including more than 12,786 teachers.",
       "Why": [
         "Lorem ipsum dolor",
         "Tempor incididunt",
@@ -18,53 +18,7 @@
         "Lorem ipsum dolor"
       ]
     },
-    "Gallery": [
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/01-large.jpg",
-        "smallImage": "img/portfolio/01-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/02-large.jpg",
-        "smallImage": "img/portfolio/02-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/03-large.jpg",
-        "smallImage": "img/portfolio/03-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/04-large.jpg",
-        "smallImage": "img/portfolio/04-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/05-large.jpg",
-        "smallImage": "img/portfolio/05-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/06-large.jpg",
-        "smallImage": "img/portfolio/06-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/07-large.jpg",
-        "smallImage": "img/portfolio/07-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/08-large.jpg",
-        "smallImage": "img/portfolio/08-small.jpg"
-      },
-      {
-        "title": "Project Title",
-        "largeImage": "img/portfolio/09-large.jpg",
-        "smallImage": "img/portfolio/09-small.jpg"
-      }
-    ],
+   
     "Services": [
       {
         "icon": "fa fa-wordpress",
@@ -152,9 +106,9 @@
       }
     ],
     "Contact": {
-      "address": "4321 California St, San Francisco, CA 12345 ",
-      "phone": "+1 123 456 1234",
-      "email": "info@company.com",
+      "address": "4321 Addis Ababa , Ethiopia ",
+      "phone": "+251943031777",
+      "email": "robelghw12@gmail.com",
       "facebook": "fb.com",
       "twitter": "twitter.com",
       "youtube": "youtube.com"
@@ -162,23 +116,23 @@
     "Features": [
       {
         "icon": "fa fa-comments-o",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Attitude of the Office Staff",
+        "text": "The first thing that greets you when you enter to our school is the office staff. Their actions set the tone for the rest of the school. If the front office is inviting for teachers, parents, and students, then the school leadership values customer service"
       },
       {
         "icon": "fa fa-bullhorn",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Communication Is Honest and Frequent",
+        "text": "our school provides teachers, staff, students, and parents with frequent communication about what is happening. Rumors and gossip are usually rampant in schools where administrators do not promptly communicate the reasons for decisions or upcoming changes."
       },
       {
         "icon": "fa fa-group",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Parental Involvement",
+        "text": "Many middle and high schools do not stress parental involvement; they should. It is the school's job to pull parents in and help them understand what they can do. The more a school involves parents, the better students will behave and perform"
       },
       {
         "icon": "fa fa-magic",
-        "title": "Lorem ipsum",
-        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        "title": "Departmental Politics Kept to a Minimum",
+        "text": "Almost every department in our school will have its share of politics and drama. For example, a math department might have teachers who want more power or who try and get a larger share of the department's resources"
       }
     ]
   }

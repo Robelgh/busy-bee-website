@@ -6,7 +6,7 @@ import { About } from "./compenent/About";
 import { Services } from "./compenent/Services";
 import { Testimonials } from "./compenent/Testimonial";
 import { Team } from "./compenent/Team";
-// import { Contact } from "./compenent/Contact";
+import { Contact } from "./compenent/Contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -31,7 +31,7 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
-      {/* <Contact data={landingPageData.Contact} /> */}
+      <Contact data={landingPageData.Contact} />
     </div>
   );
 };
