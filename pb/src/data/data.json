@@ -1,21 +1,27 @@
 {
     "Header": {
-      "title": "School Slogan",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+      "title": "Busy Bees Addis",
+      "paragraph": "Where imagination and joyful learning blossoms!"
     },
     "About": {
-      "paragraph": "School Name is the tenth largest in the nation and the fifth largest in Addis Ababa serving more than 189,000 students (this number includes students that attend non-District operated Charter Schools) who speak 150 languages and dialects. As the largest employer in Palm Beach County, the School District has 22,891 employees, including more than 12,786 teachers.",
+      "paragraph": "Our day care and preschool programs are carefully designed to encourage each child’s growing need for independence and an emerging sense of self while nurturing intellectual, growth, exploration, and socialization in a safe, supportive environment. Our classrooms not only feature a variety of working spaces that encourage small group work and cooperative learning activities, but they also use learning centers that allow children to explore areas that interest them. Each center features skills as language and reading, construction , home living, math, fine and gross motor skills, art, dramatic play, science and sensory exploration. Each area helps your child your child gain independence and further explore themes and concepts introduced in class with a hands-on, interactive approach for child development. ",
       "Why": [
-        "Lorem ipsum dolor",
-        "Tempor incididunt",
-        "Lorem ipsum dolor",
-        "Incididunt ut labore"
+        "Reading and Literacy",
+        "Exploring with letters, language and phonics ",
+        "Creative art projects ",
+        "Community service projects",
+        "Interdisciplinary lessons in STEAM learning (Science, Technology, Art, Math, and Engineering) ",
+        "Amharic, Geez and French learning centers",
+        "Little Ethiopia learning center "
       ],
       "Why2": [
-        "Aliquip ex ea commodo",
-        "Lorem ipsum dolor",
-        "Exercitation ullamco",
-        "Lorem ipsum dolor"
+        "Outdoor play ",
+        "Circle time",
+        "Nap time",
+        "Small group explorations ",
+        "Hands-on learning activities ",
+        "Exploring and creating learning centers ",
+        "Dancing and Music centers"
       ]
     },
    
@@ -85,54 +91,57 @@
     ],
     "Team": [
       {
-        "img": "img/team/01.jpg",
-        "name": "John Doe",
-        "job": "Director"
+        "img": "img/team4.jpg",
+        "name": "Emebet Dinku",
+        "job": "Excutive Director",
+        "description":""
       },
       {
-        "img": "img/team/02.jpg",
-        "name": "Mike Doe",
-        "job": "Senior Designer"
+        "img": "",
+        "name": "Abdilfetah Yasin",
+        "job": "Co-founder",
+        "description":"Greetings! I am Abdi, co-founder of Busy Bees Addis, a visionary project aiming to create a remarkable early learning center in Addis Ababa. Currently living in Australia, I bring valuable expertise from my background in education, youth work, and social work to Busy Bees Addis. Our goal is to provide a safe, joyful space for children to play, explore, learn, and socialize. I am committed to upholding high standards and creating an exceptional learning environment. In my free time, I enjoy reading, watching documentaries, hiking, baking, playing games, and practicing taekwondo. With Busy Bees Addis, I will contribute new ideas and ensure the availability of school materials. Let's embark on this exciting journey together, nurturing the growth and happiness of every child we serve."
       },
       {
-        "img": "img/team/03.jpg",
-        "name": "Jane Doe",
-        "job": "Senior Designer"
+        "img": "img/team2.jpg",
+        "name": "Tsigereda Alemayehu",
+        "job": "Managing Director / Educator",
+        "description":"My Name is Tsigereda (Hannah) Alemayehu.  It has been 14 amazing and beautiful years working, Head to Toe Early learning center and Little Einstein's early learning center of teaching Infants, Toddlers and early preschoolers!  With those each wonderful years I believe that I added extra happiness and blessing in my life. I am happily married with four handsome boys. I am very energetic, to be back from after one year preparing school set up. It always makes me happy to see children play, grow and learn new skills every day. I am looking forward to having a wonderful year with both you and your child."
       },
       {
-        "img": "img/team/04.jpg",
-        "name": "Karen Doe",
-        "job": "Project Manager"
+        "img": "img/team3.jpg",
+        "name": "Eyassu yemaneberhan",
+        "job": "School Administrator / Educator",
+        "description":"Hello there my name is Eyassu Yemaneberhan. I'm a co-founder of Busy Bees Addis. I have been a teacher in early childhood development for the past eight years. Both in the toddlers and early preschool group. Teaching children is passion of mine. I'm sure that we will have great time with your family!"
+      },
+      {
+        "img": "img/team1.jpg",
+        "name": "Maraki Abebaw",
+        "job": "Director of Learning / Educator",
+        "description":"Hello! My name is Maraki Abebaw and I am the director of learning at Busy Bees Addis Early learning center. Before moving to this position I have been an educator for 12 years. I started my career working with three year olds and have gained experience in the passing years with all early childhood education in various program structures.I have also worked as a deputy director for four years providing leadership and guidance for my team. I love to create contemporary art whenever I can make the time. I'm very excited to be working with you all!"
       }
+   
     ],
     "Contact": {
-      "address": "4321 Addis Ababa , Ethiopia ",
-      "phone": "+251943031777",
-      "email": "robelghw12@gmail.com",
-      "facebook": "fb.com",
-      "twitter": "twitter.com",
-      "youtube": "youtube.com"
+      "address": "D.A.R sahara st, Addis Ababa , Ethiopia ",
+      "phone": "+251920819944 , +251911487681 , +251955987602"
     },
     "Features": [
       {
         "icon": "fa fa-comments-o",
-        "title": "Attitude of the Office Staff",
+        "title": "Greeting",
         "text": "The first thing that greets you when you enter to our school is the office staff. Their actions set the tone for the rest of the school. If the front office is inviting for teachers, parents, and students, then the school leadership values customer service"
       },
       {
         "icon": "fa fa-bullhorn",
-        "title": "Communication Is Honest and Frequent",
-        "text": "our school provides teachers, staff, students, and parents with frequent communication about what is happening. Rumors and gossip are usually rampant in schools where administrators do not promptly communicate the reasons for decisions or upcoming changes."
+        "title": "Communication and Parent Involvment",
+        "text": "Busy Bees Addis truly believes in the importance of staying connected! Our staff communicates daily via email, phone calls, texts and weekly updates parents how their child’s day went. We are active on our website and share every month our activities, events and learning journey. Busy Bees Addis encourages parents to be and active in their child’s learning journey. Our social media pages actively showcases our students learning process every day. Drop by and check us out! "
       },
+  
       {
-        "icon": "fa fa-group",
-        "title": "Parental Involvement",
-        "text": "Many middle and high schools do not stress parental involvement; they should. It is the school's job to pull parents in and help them understand what they can do. The more a school involves parents, the better students will behave and perform"
-      },
-      {
-        "icon": "fa fa-magic",
-        "title": "Departmental Politics Kept to a Minimum",
-        "text": "Almost every department in our school will have its share of politics and drama. For example, a math department might have teachers who want more power or who try and get a larger share of the department's resources"
+        "icon": "fa fa fa-users",
+        "title": "Small - Group Setting ",
+        "text": "Busy Bees Addis Early Learning Center offers much smaller teacher/student ratios. Our typical class ratio for age group 6months – 3years is one teacher to every five student. Older students from age 4-6 years old are one teacher to every six student. However, student’s age grouped from 6months – 1 year and half are required to come with their nannies. "
       }
     ]
   }

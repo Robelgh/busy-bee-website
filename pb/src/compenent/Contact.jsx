@@ -42,14 +42,14 @@ export const Contact = (props) => {
                 <h2>Get In Touch</h2>
                 </div>
                 <div className='iframe'>
-                    
-                    <Iframe width="100%" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15761.280656720972!2d38.8422253!3d9.034530700000008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xea35a19d7e1e5734!2sEthio%20Automotive%20Garage!5e0!3m2!1sen!2set!4v1665345347400!5m2!1sen!2set" frameborder="0" allowfullscreen/>
+                    <Iframe width="100%" height="40%" src="https://www.google.com/maps/place/Busy+Bees+Addis/@9.0213716,38.7727308,17z/data=!4m6!3m5!1s0x164b856b6eb28e25:0x88fa30677d4fd38d!8m2!3d9.0213716!4d38.7727308!16s%2Fg%2F11v61nl2q1?entry=ttu" frameborder="0" allowfullscreen/>
                   </div>
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
               <h3>Contact Info</h3>
+              <hr/>
               <p>
                 <span>
                   <i className="fa fa-map-marker"></i> Address
@@ -65,16 +65,9 @@ export const Contact = (props) => {
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
-            <div className="contact-item">
-              <p>
-                <span>
-                  <i className="fa fa-envelope-o"></i> Email
-                </span>{" "}
-                {props.data ? props.data.email : "loading"}
-              </p>
-            </div>
+           
           </div>
-          <div className="col-md-12">
+          {/* <div className="col-md-12">
             <div className="row">
               <div className="social">
                 <ul>
@@ -96,14 +89,14 @@ export const Contact = (props) => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 wegahtaTech. All rights reserved.
-            <a href="http://www.wegahtaTech.com" rel="nofollow">
+            &copy; 2023 Busy Bees Addis. All rights reserved.
+            <a href="http://www.busybeesaddis.com">
               
             </a>
           </p>

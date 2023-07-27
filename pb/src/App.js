@@ -26,10 +26,8 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
-      <Testimonials data={landingPageData.Testimonials} />
+      <Features data={landingPageData.Features} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
