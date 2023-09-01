@@ -314,11 +314,16 @@ header .intro-text {
 #team {
   padding: 2vh 0;
 }
+.team-content
+{
+  padding:4vh;
+}
 #team h4 {
   margin: 3px 0;
 }
 #team .team-img {
   width: 240px;
+  height:35vh;
   cursor: pointer;
   transition: transform 1s, filter 1.5s ease-in-out;
     transform-origin: center center;
@@ -333,6 +338,20 @@ header .intro-text {
 }
 #team .thumbnail .cardHolder
 {
+  height:40%;
+  overflow-y: hidden;
+  padding: 2vh;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin: 2vh;
+}
+@media (max-width: 768px) {
+  #team .thumbnail .cardHolder {
+    height:70%;
+  }
+}
+#team .thumbnail .cardHolderShowmore
+{
+  height: auto; 
   padding: 2vh;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   margin: 2vh;
@@ -341,6 +360,8 @@ header .intro-text {
   padding: 3px 0 0;
   color: #888;
 }
+
+
 /* Contact Section */
 #contact {
   padding: 5vh;
@@ -474,7 +495,7 @@ label {
 {
   padding:1vh;
   border: 1px solid #ffee05 ;
-  margin:3vh;
+  margin:2vh;
   border-radius: 15px;
   cursor:pointer;
   float: right;
@@ -485,3 +506,88 @@ label {
   background-color:#ffee05;
   color:#825f1d;
 }
+
+/* register*/
+
+.registrationPage
+{
+  background-color: #825f1d;
+  color:#f6f6f6;
+  height: 100%;
+}
+
+.register
+{
+ margin: auto;
+ /* padding-top: 10vh; */
+ width: 80vh;
+ padding: 1vh;
+}
+
+h1{
+  text-align: center;
+  padding: 2vh;
+}
+
+/*  calender */
+
+.calenderHolder
+{
+  margin: 20vh;
+}
+.calendar_default_event_inner {
+  background: #2e78d6;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 10pt;
+  padding: 5px;
+  opacity: 0.8;
+}
+
+.registerRequirment
+{
+   
+}
+.registerRequirment ul 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 0vh;
+}
+
+.registerRequirment ul li 
+{
+  list-style:none;
+  align-items: center;
+  margin:1vh;
+}
+
+.registerRequirment .button
+{
+  background-color: #82e016;
+}
+
+.registerRequirment .button:hover
+{
+  background-color:#ffee05 !important;
+}
+
+.attachmentTitle
+{
+  align-items: center;
+  margin-left: 12vh;
+}
+
+.attachment
+{
+  display: flex;
+  flex-direction: row;
+  gap:2vh;
+}
+
+
+
+
+

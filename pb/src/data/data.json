@@ -94,37 +94,62 @@
         "img": "img/team4.jpg",
         "name": "Emebet Dinku",
         "job": "Excutive Director",
-        "description":""
+        "description":"Emebet Dinku, Co-founder of Busy Bees Early Learning School, has a strong passion for education and working with children. With a background in the coffee industry, she brings valuable skills in management and customer service to create a nurturing environment at Busy Bees. Emebet and her team of educators share a vision of unlocking each child's potential. They prioritize safety, inclusivity, and joy in their school, treating every child as their own. Emebet's commitment to education extends beyond Busy Bees; she also serves as the CEO of COMEX Services Plc and the Board Secretary at Women in Coffee Ethiopia (WICA).In her free time, she enjoys movies, music, dancing, and spending time with her puppies."
       },
       {
-        "img": "",
+        "img": "img/team7.jpg",
         "name": "Abdilfetah Yasin",
         "job": "Co-founder",
-        "description":"Greetings! I am Abdi, co-founder of Busy Bees Addis, a visionary project aiming to create a remarkable early learning center in Addis Ababa. Currently living in Australia, I bring valuable expertise from my background in education, youth work, and social work to Busy Bees Addis. Our goal is to provide a safe, joyful space for children to play, explore, learn, and socialize. I am committed to upholding high standards and creating an exceptional learning environment. In my free time, I enjoy reading, watching documentaries, hiking, baking, playing games, and practicing taekwondo. With Busy Bees Addis, I will contribute new ideas and ensure the availability of school materials. Let's embark on this exciting journey together, nurturing the growth and happiness of every child we serve."
+        "description":"Abdi Yassin, Co-founder of Busy Bees Addis, a visionary project aiming to create a remarkable early learning center in Addis Ababa. Currently living in Australia, Abdi brings valuable expertise from his background in education, youth work, and social work to Busy Bees Addis. Our goal is to provide a safe, joyful space for children to play, explore, learn, and socialize. Abdi is committed to upholding high standards and creating an exceptional learning environment. In his free time, Abdi enjoys reading, watching documentaries, hiking, baking, playing games, and practicing taekwondo. With Busy Bees Addis, Abdi will contribute new ideas and ensure the availability of school materials. Let's embark on this exciting journey together, nurturing the growth and happiness of every child we serve."
       },
       {
         "img": "img/team2.jpg",
         "name": "Tsigereda Alemayehu",
         "job": "Managing Director / Educator",
-        "description":"My Name is Tsigereda (Hannah) Alemayehu.  It has been 14 amazing and beautiful years working, Head to Toe Early learning center and Little Einstein's early learning center of teaching Infants, Toddlers and early preschoolers!  With those each wonderful years I believe that I added extra happiness and blessing in my life. I am happily married with four handsome boys. I am very energetic, to be back from after one year preparing school set up. It always makes me happy to see children play, grow and learn new skills every day. I am looking forward to having a wonderful year with both you and your child."
+        "description":"Tsigereda Alemayehu (Hannah) is Managing director/educator and Co-founder  at Busy Bees Addis Early Learning School. She is well experienced and has a strong passion for working with children. She has taught early preschoolers and trained nannies for the past 14 years! She is very passionate when it comes to teaching children and helping them with what they need.   With each of those wonderful and amazing years she believes that she added extra happiness and blessing to her life, Hannah is married and has four handsome boys. She loves spending time with her family, walking, cooking, and giving volunteering service at charity and orphans. "
       },
       {
         "img": "img/team3.jpg",
         "name": "Eyassu yemaneberhan",
         "job": "School Administrator / Educator",
-        "description":"Hello there my name is Eyassu Yemaneberhan. I'm a co-founder of Busy Bees Addis. I have been a teacher in early childhood development for the past eight years. Both in the toddlers and early preschool group. Teaching children is passion of mine. I'm sure that we will have great time with your family!"
+        "description":"Eyassu Yemaneberhan is one of the co-founders of Busy Bees Addis. He is strongly passionate about teaching children. For the past 8 years, he has been teaching preschool.In his free time Eyassu enjoys reading books, occasionally hiking and spending time with his family and friends."
       },
       {
         "img": "img/team1.jpg",
         "name": "Maraki Abebaw",
         "job": "Director of Learning / Educator",
-        "description":"Hello! My name is Maraki Abebaw and I am the director of learning at Busy Bees Addis Early learning center. Before moving to this position I have been an educator for 12 years. I started my career working with three year olds and have gained experience in the passing years with all early childhood education in various program structures.I have also worked as a deputy director for four years providing leadership and guidance for my team. I love to create contemporary art whenever I can make the time. I'm very excited to be working with you all!"
+        "description":"Maraki Abebaw, Director of Learning of Busy Bees Addis Early Learning School, has been in the education sector for more than 12 years. She has worked with three years old and has gained experience in the passing years with all early childhood education in various program structures.  Maraki has also worked as a deputy director for four years and has provided leadership and guidance for her team. Teaching is her passion, and she is always ready to explore new ways of teaching to make learning easy for children. In her free time, she loves to create art in her studio and enjoys spending time in nature! "
+      },
+      {
+        "img": "img/team5.jpg",
+        "name": "Abeba Berhanu",
+        "job": "Primary educator",
+        "description":"Abeba Berhanu is a dedicated veteran teacher with a diverse background in teaching children. She holds a bachelor's degree in psychology and is passionate about helping students achieve their full potential. Abeba is known for her dynamic teaching style and ability to connect with students on a personal level. Her classes are challenging, but also engaging and fun. Her hobbies are listening to music, going to concerts, and travelling. "
+      },
+      {
+        "img": "img/team6.jpg",
+        "name": "Mekdes Hawazebrhan",
+        "job": "Educational Assistant",
+        "description":"Mekdes Hawazebrhan is passionate about teaching kids to get to their full potential and for them to be curious about their surroundings. She has her bachelor's degree in psychology from Mekelle university. This is her second year working with kids.  She enjoys spending her spare time reading books, watching movies, listening to music and spending time with her family and friends. "
+      },
+   
+      {
+        "img": "img/team8.jpg",
+        "name": "Fitsum Ephrem",
+        "job": "Art Instructor",
+        "description":"Fitsum Ephrem, an art teacher at Busy Bees Early Learning School, has more than nine years of experience in teaching children. She is also an Artist by profession. Fitsum believes in teaching art to children at their early stage, because it establishes the base for their development in creativity as well as expressing themselves. She has identified the different techniques that are essential to enable the students to be creative as well as enjoy the process. Fitsum and her assistants are committed to making the students self-sufficient in producing their own art. She will take them through a journey of enjoyable practical exercises, by guiding them on how to apply the basics of arts and craft according to their level "
+      },
+      {
+        "img": "img/team9.jpg",
+        "name": "Worknesh Yasin",
+        "job": "Primary educator",
+        "description":"Worknesh Yasin, primary educator at Busy Bees Early Learning School. She has a BA degree in accounting, and she has been working with infants and toddlers for more than eight years. She is very dedicated to making her children happy and friendly. Seeing the kids doing new things and experiencing their world is truly what she loves to observe from them. Worknesh enjoys engaging in play, interacting and reading with the children. She also loves it when they teach her new things.  "
       }
    
     ],
     "Contact": {
       "address": "D.A.R sahara st, Addis Ababa , Ethiopia ",
-      "phone": "+251920819944 , +251911487681 , +251955987602"
+      "phone": "+251973333344 , +251905064406, +251920819944"
     },
     "Features": [
       {
@@ -143,6 +168,12 @@
         "title": "Small - Group Setting ",
         "text": "Busy Bees Addis Early Learning Center offers much smaller teacher/student ratios. Our typical class ratio for age group 6months – 3years is one teacher to every five student. Older students from age 4-6 years old are one teacher to every six student. However, student’s age grouped from 6months – 1 year and half are required to come with their nannies. "
       }
-    ]
+    ],
+
+    "Register":{
+      "img": "img/team5.jpg"
+    }
+      
+    
   }
   

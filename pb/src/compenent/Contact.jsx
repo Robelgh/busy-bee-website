@@ -42,7 +42,7 @@ export const Contact = (props) => {
                 <h2>Get In Touch</h2>
                 </div>
                 <div className='iframe'>
-                    <Iframe width="100%" height="40%" src="https://www.google.com/maps/place/Busy+Bees+Addis/@9.0213716,38.7727308,17z/data=!4m6!3m5!1s0x164b856b6eb28e25:0x88fa30677d4fd38d!8m2!3d9.0213716!4d38.7727308!16s%2Fg%2F11v61nl2q1?entry=ttu" frameborder="0" allowfullscreen/>
+                    <Iframe width="100%" height="40%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1334.0990536794573!2d38.77217126351192!3d9.021315565546686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b856b6eb28e25%3A0x88fa30677d4fd38d!2sBusy%20Bees%20Addis!5e0!3m2!1sen!2set!4v1690442299034!5m2!1sen!2set" frameborder="0" allowfullscreen/>
                   </div>
             </div>
           </div>

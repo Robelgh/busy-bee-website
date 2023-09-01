@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^5.2.5",
+    "@syncfusion/ej2-react-schedule": "^22.2.8",
+    "antd": "^5.8.5"
+  }
+}

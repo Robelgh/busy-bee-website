@@ -1,12 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Navigation } from "./compenent/Navigation";
-import { Header } from "./compenent/Header";
-import { Features } from "./compenent/Features";
-import { About } from "./compenent/About";
-import { Services } from "./compenent/Services";
-import { Testimonials } from "./compenent/Testimonial";
-import { Team } from "./compenent/Team";
-import { Contact } from "./compenent/Contact";
+import {RouteHolder} from "./compenent/Route"
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -24,12 +17,7 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
-      <Header data={landingPageData.Header} />
-      <About data={landingPageData.About} />
-      <Features data={landingPageData.Features} />
-      <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
+      <RouteHolder/>
     </div>
   );
 };
